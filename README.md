@@ -14,7 +14,7 @@
 
 💡 I am a cloud Infrastructure Engineer. 
 
-🌱Aside being a cloud Engineer I write technical articles, and you can find my articles on medium.com
+🌱Aside being a cloud Engineer I write technical articles, and you can find my articles on [medium.com](https://medium.com/@komolafetemiloluwa52)
 
 💡 Education: I am a Cybersecurity Graduate.
 
